@@ -4,13 +4,13 @@ $(window).on('load', function() { // makes sure the whole site is loaded
   $('body').delay(350).css({'overflow':'visible'});
 })
 
-$(window).scroll(function() {
+/*$(window).scroll(function() {
     if($(this).scrollTop()>90) {
         $( ".menu" ).addClass("fixed-top");
     } else {
         $( ".menu" ).removeClass("fixed-top");
     }
-});
+});*/
       
 new WOW().init();
 
