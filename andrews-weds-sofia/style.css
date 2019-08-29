@@ -2776,4 +2776,8 @@ uncomment this part if you haven't added this code anywhere else
 .the-heart-comment-form-inner {
 	margin-bottom: 30px;
 }
-
+@media(max-width:767px){
+    .the-heart-intruduction-content-txt{
+        height: auto !important;
+    }
+}
