@@ -1,78 +1,4 @@
-/*------------------------------------------------------------------
-.______    __  ___   ___  __   _______  ___________    ____ 
-|   _  \  |  | \  \ /  / |  | |   ____||   ____\   \  /   / 
-|  |_)  | |  |  \  V  /  |  | |  |__   |  |__   \   \/   /  
-|   ___/  |  |   >   <   |  | |   __|  |   __|   \_    _/   
-|  |      |  |  /  .  \  |  | |  |____ |  |        |  |     
-| _|      |__| /__/ \__\ |__| |_______||__|        |__|     
 
-
-@charset "utf-8";
-
-[Main Stylesheet]
-
-Project:    The heart
-Version:    0.1
-Last change:    17-5-2017
-Primary use:    The Heart Wedding Template  
-
-
-================== Font Famil Used =================
-
-font-family: 'Roboto', sans-serif;
-
-
-[Typography]
-
-Body:               18px 'Roboto', sans-serif;
-Paragraph:          'Roboto', sans-serif;
-
-Section Title:      48px/1 'Great Vibes', cursive;
-Section Description:    14px/1 'Poppins', sans-serif;
-
-/*==============================
-[Table of contents]
--------------------------------------------------------------------*/
-
-
-/*--------------------------------------------------------------============================================================
-
-1. The Heart Typography 
-2. The Heart Main Menu
-3. The Heart Welcome Section
-4. The Heart Introduction Section 
-5. The Heart Memory
-6. The Heart Wedding Palace 
-7. The Heart Attending Content 
-8. The Heart Lovely Gallery
-9. The Heart jurnal 
-10. The Heart Footer
-11. The Heart magnific Pop Up Init
-12. The Heart Owl Carousel Custom
-
-
-
-	==================The Heart Inner Page Start==============
-1. The Heart Time Line Page 
-2. The Heart His Story
-3. The Heart Her Story
-4. The Heart Groomsman And Bride Maid
-5. The Heart Gift Registry
-6. The Heart Engagement Inner Page 
-7. The Heart Accommodation Inner Page 
-8. The Heart RSVP  
-9. The Heart Journal With Side Bar 
-10.The Heart Single Journal page 
-
-
-
-
-=============================================================--------------------------------------------------------------*/
-
-
-/*====================================================================== 
-		1. The Heart Typography 
-====================================================================================*/
 
 body {
 	font-family: 'Roboto', sans-serif;
@@ -267,7 +193,8 @@ h1,h2,h3,h4,h5,h6,a,ul,li{
 
 /* Body Background List */
 body.the-heart-default-body {
-	background-image: url(img/the-heart-body-bg.png);
+	background-image: url(img/the-heart-body-bg.jpg);
+    background-repeat: repeat;
 }
 body.the-heart-journal-body-bg {
 	background-image: url(img/journal-body-bg.png);
