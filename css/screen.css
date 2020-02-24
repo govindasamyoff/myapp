@@ -624,12 +624,12 @@ body {
 
 .in12354 #html-content-holder .bname {
 	position: absolute;
-	right: 0;
-	left: 0;
-	top: 312px;
-	text-align: center;
-	font-size: 30px;
-	color: #1c2757
+    right: 0;
+    left: 0;
+    top: 324px;
+    text-align: center;
+    font-size: 30px;
+    color: #ce2155;
 }
 
 .in12354 #html-content-holder .cc {
