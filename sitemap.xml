@@ -4,48 +4,63 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
 
 
 <url>
   <loc>http://www.inshyn.com/</loc>
-  <lastmod>2018-07-01T14:07:57+00:00</lastmod>
+  <lastmod>2020-09-15T16:21:49+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://www.inshyn.com/contact-us.html</loc>
-  <lastmod>2018-07-01T14:07:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>http://www.inshyn.com/index.html</loc>
-  <lastmod>2018-07-01T14:07:57+00:00</lastmod>
+  <lastmod>2020-09-15T16:21:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.inshyn.com/wedding-invitation.html</loc>
-  <lastmod>2018-07-01T14:07:57+00:00</lastmod>
+  <loc>http://www.inshyn.com/about.html</loc>
+  <lastmod>2020-09-15T16:21:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.inshyn.com/birthday-greetings.html</loc>
-  <lastmod>2018-07-01T14:07:57+00:00</lastmod>
+  <loc>http://www.inshyn.com/contact.html</loc>
+  <lastmod>2020-09-15T16:21:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.inshyn.com/create-invitation.html</loc>
-  <lastmod>2018-07-01T14:07:57+00:00</lastmod>
+  <loc>http://www.inshyn.com/inshynapp/index.html</loc>
+  <lastmod>2020-09-15T16:21:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://www.inshyn.com/create-greetings.html</loc>
-  <lastmod>2018-07-01T14:07:57+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://www.inshyn.com/inshynapp/contact-us.html</loc>
+  <lastmod>2020-09-15T16:21:49+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://www.inshyn.com/privacy-policy.html</loc>
-  <lastmod>2018-07-01T14:07:57+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://www.inshyn.com/inshynapp/wedding-invitation.html</loc>
+  <lastmod>2020-09-15T16:21:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.inshyn.com/inshynapp/birthday-greetings.html</loc>
+  <lastmod>2020-09-15T16:21:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.inshyn.com/inshynapp/create-invitation.html</loc>
+  <lastmod>2020-09-15T16:21:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.inshyn.com/inshynapp/create-greetings.html</loc>
+  <lastmod>2020-09-15T16:21:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.inshyn.com/inshynapp/privacy-policy.html</loc>
+  <lastmod>2020-09-15T16:21:49+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
