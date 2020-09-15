@@ -202,7 +202,7 @@ a:hover, a:active, a:focus {
     background: #ffffff;
     padding: 18px 0;
     border: none;
-    margin-top: 62px;
+    margin-top: 0px;
 }
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
@@ -220,7 +220,7 @@ a:hover, a:active, a:focus {
 
 .navbar-default .navbar-nav li a {
     color: #000;
-    font-size: 22px;
+    font-size: 16px;
     letter-spacing: 1px;
     -webkit-transition: all 0.4s ease-in-out;
     transition: all 0.4s ease-in-out;
