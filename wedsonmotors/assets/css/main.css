@@ -10065,7 +10065,7 @@ COLOR CUSTOMIZER
   background: #ff717e; }
 
 .r-color_selector .r-color_8 {
-  background: #ffcd00; }
+  background: #ec2b00; }
 
 .r-customizer i {
   background: #ffffff none repeat scroll 0 0;
@@ -10095,7 +10095,7 @@ COLOR CUSTOMIZER
     position: absolute;
     top: 30px;
     z-index: 9999;
-    background: #ffcd00;
+    background: #ec2b00;
     width: 100%; }
     .r-header .r-header-strip .r-logo {
       margin: 30px 0; }
@@ -10149,7 +10149,7 @@ COLOR CUSTOMIZER
               content: ">>";
               margin-right: 10px; }
             .r-header .r-header-strip .r-nav-section nav > ul > li.r-has-child > ul > li > a:hover {
-              background-color: #ffcd00;
+              background-color: #ec2b00;
               color: #000; }
     .r-header .r-header-strip.r-header-fixed {
       position: fixed;
@@ -10180,7 +10180,7 @@ COLOR CUSTOMIZER
     .r-header .r-header-inner-banner .r-header-in-over {
       position: absolute;
       bottom: 150px;
-      color: #ffcd00;
+      color: #ec2b00;
       width: 100%;
       text-align: center; }
       .r-header .r-header-inner-banner .r-header-in-over h1 {
@@ -10203,7 +10203,7 @@ COLOR CUSTOMIZER
           color: #fff;
           font-weight: 500; }
           .r-header .r-header-inner-banner .r-breadcrum ul li a:hover {
-            color: #ffcd00; }
+            color: #ec2b00; }
         .r-header .r-header-inner-banner .r-breadcrum ul li::after {
           content: ">";
           font-size: 18px;
@@ -10234,7 +10234,7 @@ COLOR CUSTOMIZER
     .r-header .r-header-action a:first-of-type {
       border-right: none; }
     .r-header .r-header-action a:hover {
-      background: #ffcd00; }
+      background: #ec2b00; }
   .r-header .r-header-action span {
     padding-top: 10px;
     display: block; }
@@ -10252,7 +10252,7 @@ COLOR CUSTOMIZER
     padding: 20px 0;
     color: #fff; }
     .r-header.r-header-strip-01 .r-nav-section nav ul li a:hover {
-      color: #ffcd00; }
+      color: #ec2b00; }
 .r-header.r-header-strip-01 .r-car-search {
   position: absolute;
   left: 0;
@@ -10307,12 +10307,12 @@ COLOR CUSTOMIZER
     .r-sub-banners .r-sub-banner-in h4 {
       font-size: 30px;
       font-weight: 300;
-      color: #ffcd00;
+      color: #ec2b00;
       line-height: 40px; }
       .r-sub-banners .r-sub-banner-in h4 b {
         font-weight: 700; }
     .r-sub-banners .r-sub-banner-in.r-sub-accent {
-      background-color: #ffcd00;
+      background-color: #ec2b00;
       color: #333;
       padding-left: 45px;
       background-image: url("../images/sub-banner-02.png");
@@ -10332,7 +10332,7 @@ COLOR CUSTOMIZER
     margin-bottom: 10px; }
   .r-car-search .r-top-form-title h3 {
     font-size: 32px;
-    color: #ffcd00;
+    color: #ec2b00;
     font-weight: 400; }
     .r-car-search .r-top-form-title h3 b {
       font-weight: 600; }
@@ -10341,7 +10341,7 @@ COLOR CUSTOMIZER
       display: block;
       width: 40px;
       height: 3px;
-      background-color: #ffcd00;
+      background-color: #ec2b00;
       position: relative;
       top: 22px;
       left: 2px; }
@@ -10386,7 +10386,7 @@ COLOR CUSTOMIZER
     padding: 31px 0;
     color: #000; }
     .r-header.r-header-strip-02 .r-nav-section nav ul li a:hover {
-      color: #ffcd00; }
+      color: #ec2b00; }
 .r-header.r-header-strip-02 .r-header-action i {
   color: #ccc;
   font-size: 27px; }
@@ -10466,7 +10466,7 @@ COLOR CUSTOMIZER
         -ms-transition: all 0.2s linear;
         transition: all 0.2s linear; }
       .r-search-wrapper .r-search-inner .r-search-btn:hover i {
-        color: #ffcd00; }
+        color: #ec2b00; }
   .r-search-wrapper.r-search-open {
     -webkit-transform: translateY(0);
     -moz-transform: translateY(0);
@@ -10636,7 +10636,7 @@ COLOR CUSTOMIZER
   .r-header.r-header-strip-02 .r-header-strip .menu-icon {
     top: 20px;
     background: #333333;
-    color: #ffcd00;
+    color: #ec2b00;
     right: 15px; }
 
   .r-header .r-header-strip .r-nav-section nav ul li {
@@ -10647,7 +10647,7 @@ COLOR CUSTOMIZER
     cursor: pointer;
     width: 25px;
     height: 25px;
-    background: #ffcd00;
+    background: #ec2b00;
     color: #333333;
     font-size: 18px;
     line-height: 25px;
@@ -10729,7 +10729,7 @@ COLOR CUSTOMIZER
       height: 50px; }
     .r-footer .r-footer-block .r-newsletter button {
       float: left;
-      background: #ffcd00;
+      background: #ec2b00;
       height: 50px;
       border-radius: 0;
       color: #ffffff; }
@@ -10761,7 +10761,7 @@ COLOR CUSTOMIZER
         content: "\f0da";
         font-family: 'FontAwesome';
         font-size: 16px;
-        color: #ffcd00;
+        color: #ec2b00;
         position: absolute;
         left: 0;
         top: 12px;
@@ -10774,11 +10774,11 @@ COLOR CUSTOMIZER
         -ms-transition: all 0.2s linear;
         transition: all 0.2s linear; }
         .r-footer .r-footer-block .r-footer-nav ul li a:hover {
-          color: #ffcd00; }
+          color: #ec2b00; }
   .r-footer .r-footer-block .r-footer-map {
     margin-bottom: 70px; }
     .r-footer .r-footer-block .r-footer-map a {
-      background: #ffcd00;
+      background: #ec2b00;
       display: inline-block;
       padding: 20px 25px 20px 70px;
       color: #ffffff;
@@ -10822,7 +10822,7 @@ COLOR CUSTOMIZER
           -ms-transition: all 0.2s linear;
           transition: all 0.2s linear; }
           .r-footer .r-footer-strip ul li a:hover {
-            color: #ffcd00; }
+            color: #ec2b00; }
           .r-footer .r-footer-strip ul li a i {
             margin: 2px; }
         .r-footer .r-footer-strip ul li span {
@@ -10835,7 +10835,7 @@ COLOR CUSTOMIZER
   .r-footer-dark .r-footer-block .r-footer-phone span {
     color: #fff; }
   .r-footer-dark .r-footer-block .r-footer-phone h5 {
-    color: #ffcd00; }
+    color: #ec2b00; }
   .r-footer-dark .r-footer-block .r-footer-nav h6 {
     color: #fff; }
   .r-footer-dark .r-footer-block .r-footer-nav ul li a {
@@ -10859,11 +10859,11 @@ COLOR CUSTOMIZER
       -ms-transition: all 0.2s ease;
       transition: all 0.2s ease; }
       .r-footer-dark .r-location-map a i {
-        color: #ffcd00;
+        color: #ec2b00;
         font-size: 14px;
         margin: 5px; }
       .r-footer-dark .r-location-map a:hover {
-        color: #ffcd00; }
+        color: #ec2b00; }
   .r-footer-dark .r-top-footer {
     padding: 135px 0 100px;
     background-image: url(../images/footer-dark-bg.jpg);
@@ -10913,7 +10913,7 @@ COLOR CUSTOMIZER
       color: #545454;
       margin-bottom: 0px; }
       .r-footer-dark .r-footer-strip .r-copy-right-text strong {
-        color: #ffcd00; }
+        color: #ec2b00; }
   .r-footer-dark .r-footer-logo {
     max-width: 230px; }
     .r-footer-dark .r-footer-logo img {
@@ -10927,7 +10927,7 @@ COLOR CUSTOMIZER
   line-height: 50px;
   color: #333333;
   font-size: 26px;
-  background: #ffcd00;
+  background: #ec2b00;
   border-radius: 50%;
   position: fixed;
   bottom: 88px;
@@ -11124,7 +11124,7 @@ COLOR CUSTOMIZER
         background-color: #f4f4f4;
         padding: 2px 12px; }
         .r-slider-item .r-slider-top-content ul li:hover {
-          background-color: #ffcd00;
+          background-color: #ec2b00;
           color: #fff; }
         .r-slider-item .r-slider-top-content ul li i {
           font-size: 12px;
@@ -11138,7 +11138,7 @@ COLOR CUSTOMIZER
       font-weight: 600; }
       .r-slider-item .r-slider-top-content h1 span {
         font-weight: 700;
-        color: #ffcd00;
+        color: #ec2b00;
         font-style: italic; }
     .r-slider-item .r-slider-top-content h4 {
       color: #fff;
@@ -11164,8 +11164,8 @@ COLOR CUSTOMIZER
       -ms-transition: all 0.2s linear 0s;
       transition: all 0.2s linear 0s; }
       .r-slider-item .r-slider-top-content .btn-outlined:hover {
-        background: #ffcd00;
-        border-color: #ffcd00; }
+        background: #ec2b00;
+        border-color: #ec2b00; }
 
 .r-slider .owl-nav .owl-prev,
 .r-slider .owl-nav .owl-next {
@@ -11228,7 +11228,7 @@ COLOR CUSTOMIZER
       -ms-transition: all 0.2s linear 0s;
       transition: all 0.2s linear 0s; }
     .r-slider .owl-dots .owl-dot.active {
-      border-bottom: 2px solid #ffcd00; }
+      border-bottom: 2px solid #ec2b00; }
       .r-slider .owl-dots .owl-dot.active::before {
         font-size: 25px;
         font-weight: 700;
@@ -11372,7 +11372,7 @@ COLOR CUSTOMIZER
     font-weight: 500;
     line-height: 32px;
     padding: 0 0 0 30px;
-    border-left: solid 3px #ffcd00; }
+    border-left: solid 3px #ec2b00; }
 
 .r-video-banner img {
   width: 100%; }
@@ -11409,7 +11409,7 @@ COLOR CUSTOMIZER
     -ms-transition: all 0.2s linear;
     transition: all 0.2s linear; }
   .r-insurance-part .r-insurance-box:hover {
-    background: #ffcd00;
+    background: #ec2b00;
     color: #fff; }
     .r-insurance-part .r-insurance-box:hover i {
       color: #fff; }
@@ -11459,7 +11459,7 @@ div.r-who-we-outer {
 .r-who-we-small p.blockquote {
   font-size: 16px;
   padding: 20px 35px;
-  border-color: #ffcd00;
+  border-color: #ec2b00;
   color: #fff;
   font-weight: 500; }
 
@@ -11559,7 +11559,7 @@ div.r-who-we-outer {
     letter-spacing: 3px; }
     .r-get-in-touch .r-get-header h2 {
       font-size: 40px;
-      color: #ffcd00;
+      color: #ec2b00;
       padding-top: 20px;
       font-weight: 300; }
       .r-get-in-touch .r-get-header h2 b {
@@ -11627,7 +11627,7 @@ div.r-who-we-outer {
         font-size: 14px;
         font-weight: 700;
         padding: 0;
-        background: #ffcd00;
+        background: #ec2b00;
         border-radius: 0;
         color: #fff; }
 
@@ -11643,10 +11643,10 @@ div.r-who-we-outer {
     .r-counter-section div[class*="col-"]:last-of-type {
       border-right: none; }
   .r-counter-section.r-counter-with-bg {
-    background-color: #ffcd00;
+    background-color: #ec2b00;
     padding: 45px 0; }
     .r-counter-section.r-counter-with-bg div[class*="col-"] {
-      border-right-color: #ffcd00; }
+      border-right-color: #ec2b00; }
     .r-counter-section.r-counter-with-bg .r-counter-box .r-count-title {
       color: #fff; }
     .r-counter-section.r-counter-with-bg .r-counter-box .r-counts {
@@ -11716,7 +11716,7 @@ div.r-who-we-outer {
       font-size: 16px;
       margin-bottom: 12px; }
       .r-about-info .r-about-info-content ul li i, .r-about-info .r-who-royal ul li i {
-        color: #ffcd00;
+        color: #ec2b00;
         display: inline-block;
         margin-right: 10px; }
 
@@ -11731,7 +11731,7 @@ div.r-who-we-outer {
     .r-who-royal .r-about-info-content .r-sec-head span, .r-who-royal .r-who-royal .r-sec-head span {
       color: #fff; }
     .r-who-royal .r-about-info-content .r-sec-head h2, .r-who-royal .r-who-royal .r-sec-head h2 {
-      color: #ffcd00; }
+      color: #ec2b00; }
     .r-who-royal .r-about-info-content .r-sec-head.r-sec-head-left::after, .r-who-royal .r-who-royal .r-sec-head.r-sec-head-left::after {
       line-height: 150px;
       top: -30px;
@@ -11749,7 +11749,7 @@ div.r-who-we-outer {
         font-size: 16px;
         margin-bottom: 12px; }
         .r-who-royal .r-about-info-content ul li i, .r-who-royal .r-who-royal ul li i {
-          color: #ffcd00;
+          color: #ec2b00;
           display: inline-block;
           margin-right: 10px; }
 
@@ -11761,7 +11761,7 @@ div.r-who-we-outer {
   .r-newsletter-suscribe .r-newsletter-head {
     padding-bottom: 150px; }
   .r-newsletter-suscribe .r-newsletter-form i {
-    color: #ffcd00;
+    color: #ec2b00;
     display: block;
     text-align: center;
     font-size: 18px; }
@@ -12074,7 +12074,7 @@ div.r-who-we-outer {
         display: block;
         width: 90%;
         height: 90%;
-        background: #ffcd00;
+        background: #ec2b00;
         position: absolute;
         top: 50%;
         left: 50%;
@@ -12107,7 +12107,7 @@ div.r-who-we-outer {
           margin-right: 35px;
           margin-top: -44px; }
           .r-gallery-part ul li .gallery-text .icon-gallery i {
-            color: #ffcd00;
+            color: #ec2b00;
             font-size: 25px;
             line-height: 36px; }
       .r-gallery-part ul li:hover .gallery-hover {
@@ -12210,7 +12210,7 @@ div.r-who-we-outer {
     transition: all 0.3s linear; }
     .r-advantages-part .r-advantage-main-part .r-advantages-box .icon {
       font-size: 60px;
-      color: #ffcd00;
+      color: #ec2b00;
       margin-bottom: 15px;
       -webkit-transition: all 0.3s linear;
       -moz-transition: all 0.3s linear;
@@ -12234,7 +12234,7 @@ div.r-who-we-outer {
       transition: all 0.3s linear; }
     .r-advantages-part .r-advantage-main-part .r-advantages-box:hover {
       box-shadow: 0 0 40px #ccc;
-      background: #ffcd00; }
+      background: #ec2b00; }
       .r-advantages-part .r-advantage-main-part .r-advantages-box:hover .icon {
         color: #fff; }
         .r-advantages-part .r-advantage-main-part .r-advantages-box:hover .icon img {
@@ -12293,7 +12293,7 @@ div.r-who-we-outer {
     transition: all 0.1s linear; }
     .r-advantages-part .r-what-offers .r-offers-box .icon {
       font-size: 60px;
-      color: #ffcd00;
+      color: #ec2b00;
       margin-bottom: 0; }
     .r-advantages-part .r-what-offers .r-offers-box .head {
       font-size: 20px;
@@ -12335,7 +12335,7 @@ div.r-who-we-outer {
   .r-new-member .r-sec-head span {
     color: #fff; }
   .r-new-member .r-sec-head h2 {
-    color: #ffcd00; }
+    color: #ec2b00; }
   .r-new-member .r-sec-head.r-sec-head-left::after {
     color: #484746;
     top: -20px;
@@ -12355,7 +12355,7 @@ div.r-who-we-outer {
       .r-new-member .r-discounted-car .r-discount-single .r-discount-content .r-starts li {
         display: inline-block; }
         .r-new-member .r-discounted-car .r-discount-single .r-discount-content .r-starts li i {
-          color: #ffcd00;
+          color: #ec2b00;
           font-size: 14px; }
     .r-new-member .r-discounted-car .r-discount-single h4 {
       margin-bottom: 2px; }
@@ -12364,7 +12364,7 @@ div.r-who-we-outer {
         font-weight: 600;
         font-size: 21px; }
         .r-new-member .r-discounted-car .r-discount-single h4 a:hover {
-          color: #ffcd00; }
+          color: #ec2b00; }
     .r-new-member .r-discounted-car .r-discount-single .r-price-discount {
       color: #fff;
       font-size: 13px;
@@ -12381,7 +12381,7 @@ div.r-who-we-outer {
         background-color: #444444;
         padding: 2px 10px; }
         .r-new-member .r-discounted-car .r-discount-single ul.r-car-point li:hover {
-          background-color: #ffcd00;
+          background-color: #ec2b00;
           color: #fff; }
           .r-new-member .r-discounted-car .r-discount-single ul.r-car-point li:hover i {
             color: #fff; }
@@ -12554,7 +12554,7 @@ div.r-who-we-outer {
         width: 60px;
         height: 60px;
         font-size: 28px;
-        color: #ffcd00;
+        color: #ec2b00;
         background: #eee;
         text-align: center;
         line-height: 60px;
@@ -12645,7 +12645,7 @@ a:focus {
   font-size: 16px;
   font-weight: 500;
   padding: 0;
-  background: #ffcd00;
+  background: #ec2b00;
   border-radius: 0;
   color: #fff;
   text-transform: uppercase; }
@@ -12656,7 +12656,7 @@ a:focus {
 .btn-primary {
   padding: 15px 30px;
   display: inline-block;
-  background: #ffcd00;
+  background: #ec2b00;
   color: #ffffff;
   border: none;
   cursor: pointer;
@@ -12680,7 +12680,7 @@ a:focus {
   -ms-transition: all 0.2s linear;
   transition: all 0.2s linear; }
   .btn-default:hover {
-    background: #ffcd00;
+    background: #ec2b00;
     color: #ffffff; }
 
 .icon-btn {
@@ -12752,7 +12752,7 @@ a:focus {
     display: block;
     width: 40px;
     height: 3px;
-    background-color: #ffcd00;
+    background-color: #ec2b00;
     position: relative;
     top: 35px;
     left: 2px; }
@@ -12860,7 +12860,7 @@ a:focus {
       bottom: 0;
       width: 40px;
       height: 3px;
-      background: #ffcd00; }
+      background: #ec2b00; }
     .r-faq-header h2 strong {
       font-weight: 700; }
 
@@ -12890,7 +12890,7 @@ a:focus {
     display: none;
     padding: 16px 25px; }
     .r-accordion .r-accordion-body h3 {
-      color: #ffcd00;
+      color: #ec2b00;
       font-size: 13px;
       font-weight: 600;
       text-transform: uppercase;
@@ -13044,9 +13044,9 @@ a:focus {
         margin-bottom: 15px; }
         .r-best-vehicles .r-best-vehicle-list .r-best-vehicle-single .r-best-vehicle-content .r-modal-name:hover {
           text-decoration: none;
-          color: #ffcd00; }
+          color: #ec2b00; }
         .r-best-vehicles .r-best-vehicle-list .r-best-vehicle-single .r-best-vehicle-content .r-modal-name span {
-          color: #ffcd00;
+          color: #ec2b00;
           font-weight: 400; }
       .r-best-vehicles .r-best-vehicle-list .r-best-vehicle-single .r-best-vehicle-content .r-engine {
         float: right;
@@ -13056,7 +13056,7 @@ a:focus {
         .r-best-vehicles .r-best-vehicle-list .r-best-vehicle-single .r-best-vehicle-content .r-engine img {
           margin-right: 10px; }
       .r-best-vehicles .r-best-vehicle-list .r-best-vehicle-single .r-best-vehicle-content .r-average {
-        background-color: #ffcd00;
+        background-color: #ec2b00;
         padding: 7px 16px;
         display: inline-block;
         font-size: 16px;
@@ -13087,7 +13087,7 @@ a:focus {
     list-style: none; }
   .r-best-vehicles .r-best-leftbar .r-best-vehicle-types {
     max-width: 250px;
-    background-color: #ffcd00; }
+    background-color: #ec2b00; }
     .r-best-vehicles .r-best-leftbar .r-best-vehicle-types li {
       position: relative;
       -webkit-transition: all 0.2s linear;
@@ -13103,7 +13103,7 @@ a:focus {
         color: #fff;
         font-size: 16px;
         font-weight: 500;
-        border-bottom: 1px solid #ffcd00;
+        border-bottom: 1px solid #ec2b00;
         -webkit-transition: all 0.2s linear;
         -moz-transition: all 0.2s linear;
         -ms-transition: all 0.2s linear;
@@ -13114,7 +13114,7 @@ a:focus {
           height: 20px;
           margin-right: 0;
           width: 0;
-          background-color: #ffcd00;
+          background-color: #ec2b00;
           position: relative;
           top: 5px; }
       .r-best-vehicles .r-best-leftbar .r-best-vehicle-types li::after {
@@ -13125,7 +13125,7 @@ a:focus {
         height: 100%;
         width: 10px;
         content: '';
-        background-color: #ffcd00;
+        background-color: #ec2b00;
         -webkit-transition: all 0.2s linear;
         -moz-transition: all 0.2s linear;
         -ms-transition: all 0.2s linear;
@@ -13198,7 +13198,7 @@ a:focus {
         margin: auto;
         width: 35px;
         height: 35px;
-        background-color: #ffcd00;
+        background-color: #ec2b00;
         border-radius: 50%;
         color: #fff;
         line-height: 35px;
@@ -13213,15 +13213,15 @@ a:focus {
     background: #fff; }
     .r-best-offer-list .r-best-offer-single .r-best-offer-content > a {
       font-size: 28px;
-      color: #ffcd00;
+      color: #ec2b00;
       font-weight: 400;
       display: inline-block;
       margin-bottom: 0; }
       .r-best-offer-list .r-best-offer-single .r-best-offer-content > a:hover {
         text-decoration: none;
-        color: #ffcd00; }
+        color: #ec2b00; }
         .r-best-offer-list .r-best-offer-single .r-best-offer-content > a:hover b {
-          color: #ffcd00; }
+          color: #ec2b00; }
       .r-best-offer-list .r-best-offer-single .r-best-offer-content > a b {
         color: #333;
         font-weight: 700; }
@@ -13237,7 +13237,7 @@ a:focus {
       background-color: #f4f4f4;
       padding: 2px 12px; }
       .r-best-offer-list .r-best-offer-single ul li:hover {
-        background-color: #ffcd00;
+        background-color: #ec2b00;
         color: #fff; }
       .r-best-offer-list .r-best-offer-single ul li i {
         font-size: 12px;
@@ -13330,7 +13330,7 @@ a:focus {
         line-height: 23px;
         font-weight: 500;
         color: #333;
-        border-left: solid 3px #ffcd00;
+        border-left: solid 3px #ec2b00;
         padding-left: 33px; }
       .r-driver-blog .r-drivers .r-drivers-detail .text, .r-dot-theme-dark .r-drivers .r-drivers-detail .text {
         font-size: 14px;
@@ -13349,7 +13349,7 @@ a:focus {
           -ms-transition: all 0.2s linear;
           transition: all 0.2s linear; }
           .r-driver-blog .r-drivers .r-drivers-detail .icon a:hover, .r-dot-theme-dark .r-drivers .r-drivers-detail .icon a:hover {
-            color: #ffcd00; }
+            color: #ec2b00; }
         .r-driver-blog .r-drivers .r-drivers-detail .icon i, .r-dot-theme-dark .r-drivers .r-drivers-detail .icon i {
           margin-right: 10px; }
     .r-driver-blog .r-drivers .drivers-img, .r-dot-theme-dark .r-drivers .drivers-img {
@@ -13368,7 +13368,7 @@ a:focus {
   .r-driver-blog-dark .r-sec-head span {
     color: #fff; }
   .r-driver-blog-dark .r-sec-head h2 {
-    color: #ffcd00; }
+    color: #ec2b00; }
   .r-driver-blog-dark .r-sec-head::after {
     color: rgba(69, 71, 72, 0.88); }
   .r-driver-blog-dark.r-driver-blog-dark-theme-2 {
@@ -13401,8 +13401,8 @@ a:focus {
       border-radius: 0;
       color: #000; }
       .r-car-option-tab li.nav-item a.nav-link.active, .r-car-option-tab li.nav-item a.nav-link:hover {
-        background-color: #ffcd00;
-        border: 1px solid #ffcd00;
+        background-color: #ec2b00;
+        border: 1px solid #ec2b00;
         color: #fff; }
 
 .r-faq-option-tab {
@@ -13430,7 +13430,7 @@ a:focus {
       .r-faq-option-tab li.nav-item a.nav-link.active, .r-faq-option-tab li.nav-item a.nav-link:hover {
         color: #000; }
         .r-faq-option-tab li.nav-item a.nav-link.active i, .r-faq-option-tab li.nav-item a.nav-link:hover i {
-          color: #ffcd00; }
+          color: #ec2b00; }
 
 @media (max-width: 1400px) {
   .r-driver-blog .r-drivers .r-drivers-detail .name, .r-dot-theme-dark .r-drivers .r-drivers-detail .name {
@@ -13490,7 +13490,7 @@ a:focus {
   .r-latest-news .r-sec-head span {
     color: #fff; }
   .r-latest-news .r-sec-head h2 {
-    color: #ffcd00; }
+    color: #ec2b00; }
   .r-latest-news .r-sec-head::after {
     color: rgba(0, 0, 0, 0.3); }
 
@@ -13510,10 +13510,10 @@ a:focus {
     margin-bottom: 10px; }
   .r-latest-news-content h4 {
     padding-left: 20px;
-    border-left: 2px solid #ffcd00;
+    border-left: 2px solid #ec2b00;
     margin-bottom: 20px; }
     .r-latest-news-content h4 a {
-      color: #ffcd00;
+      color: #ec2b00;
       font-weight: 500;
       font-size: 20px;
       display: block;
@@ -13532,7 +13532,7 @@ a:focus {
     text-transform: uppercase;
     text-decoration: underline; }
     .r-latest-news-content .r-read-more:hover {
-      color: #ffcd00; }
+      color: #ec2b00; }
 
 .r-follow-us span {
   display: block;
@@ -13541,7 +13541,7 @@ a:focus {
   font-size: 13px;
   color: #fff; }
   .r-follow-us span a {
-    color: #ffcd00; }
+    color: #ec2b00; }
 
 .r-latest-news-light {
   background: #fff; }
@@ -13554,15 +13554,15 @@ a:focus {
   .r-latest-news-light .r-sec-head::after {
     color: rgba(226, 226, 226, 0.3); }
   .r-latest-news-light .r-latest-news-content .r-date {
-    color: #ffcd00; }
+    color: #ec2b00; }
   .r-latest-news-light .r-latest-news-content h4 a {
     color: #333; }
     .r-latest-news-light .r-latest-news-content h4 a:hover {
-      color: #ffcd00; }
+      color: #ec2b00; }
   .r-latest-news-light .r-latest-news-content .r-read-more {
     color: #cccccc; }
     .r-latest-news-light .r-latest-news-content .r-read-more:hover {
-      color: #ffcd00; }
+      color: #ec2b00; }
   .r-latest-news-light .r-latest-news-list {
     margin-bottom: 0;
     border-bottom: none; }
@@ -13691,7 +13691,7 @@ a:focus {
         height: 30px;
         line-height: 30px;
         text-align: center;
-        color: #ffcd00;
+        color: #ec2b00;
         transition: all 0.3s linear 0s;
         -webkit-transition: all 0.3s linear 0s;
         -moz-transition: all 0.3s linear 0s;
@@ -13708,7 +13708,7 @@ a:focus {
     .r-best-vehicles .r-best-leftbar .r-best-vehicle-types.r-best-vehicle-category li:hover span {
       border-color: #fff; }
   .r-best-vehicles .r-best-leftbar .r-best-vehicle-types.r-best-vehicle-category li i {
-    color: #ffcd00;
+    color: #ec2b00;
     margin-right: 7px; }
   .r-best-vehicles .r-best-leftbar .r-best-vehicle-types.r-best-vehicle-category li span {
     border-color: #444444; }
@@ -13759,7 +13759,7 @@ a:focus {
     color: #b8b8b8;
     border-left: 1px solid #fff; }
   .r-hide-car-list:hover {
-    background: #ffcd00; }
+    background: #ec2b00; }
     .r-hide-car-list:hover span, .r-hide-car-list:hover i {
       color: #000; }
 
@@ -13844,7 +13844,7 @@ a:focus {
     .r-car-info-wrapper .r-car-info-header .r-car-rating {
       margin-bottom: 10px; }
       .r-car-info-wrapper .r-car-info-header .r-car-rating i {
-        color: #ffcd00;
+        color: #ec2b00;
         font-size: 13px; }
       .r-car-info-wrapper .r-car-info-header .r-car-rating .r-rating-text {
         font-size: 12px;
@@ -13855,14 +13855,14 @@ a:focus {
       font-weight: 700;
       color: #333333; }
       .r-car-info-wrapper .r-car-info-header .r-car-name span {
-        color: #ffcd00;
+        color: #ec2b00;
         font-weight: 400;
         margin-left: 10px; }
     .r-car-info-wrapper .r-car-info-header .r-car-offer {
       float: right; }
     .r-car-info-wrapper .r-car-info-header .r-offer-cost {
       display: inline-block;
-      background: #ffcd00;
+      background: #ec2b00;
       padding: 6px 15px;
       padding-left: 80px;
       color: #fff;
@@ -13913,7 +13913,7 @@ a:focus {
       .r-car-product-carousel-wrapper .r-car-product-carousel-thumb li img {
         height: 100%; }
       .r-car-product-carousel-wrapper .r-car-product-carousel-thumb li.active {
-        border-color: #ffcd00;
+        border-color: #ec2b00;
         border-width: 4px; }
 
 .r-car-whole-info {
@@ -13949,7 +13949,7 @@ a:focus {
       color: #333333;
       margin-bottom: 15px; }
       .r-car-whole-info .r-car-info-content .r-product-name span {
-        color: #ffcd00;
+        color: #ec2b00;
         font-weight: 400; }
     .r-car-whole-info .r-car-info-content .r-product-description {
       font-size: 15px;
@@ -13963,7 +13963,7 @@ a:focus {
       border-color: #f8f8f8; }
 
 .r-product-testimonial-wrapper {
-  background: #ffcd00;
+  background: #ec2b00;
   padding: 40px 35px 30px;
   margin-bottom: 40px; }
   .r-product-testimonial-wrapper h4 {
@@ -14006,7 +14006,7 @@ a:focus {
   .r-product-discount .r-discount-content {
     font-size: 25px;
     font-weight: 300;
-    color: #ffcd00;
+    color: #ec2b00;
     line-height: 33px; }
     .r-product-discount .r-discount-content strong {
       font-weight: 700; }
@@ -14054,7 +14054,7 @@ a:focus {
       border: none;
       border-radius: 0px; }
     .r-site-default-accordion .r-accordion-body .input-group .form-control {
-      border-left: 3px solid #ffcd00; }
+      border-left: 3px solid #ec2b00; }
     .r-site-default-accordion .r-accordion-body .input-group-addon {
       background: #f8f8f8;
       border: none;
@@ -14095,7 +14095,7 @@ a:focus {
   .r-site-checkbox label input {
     display: none; }
     .r-site-checkbox label input:checked + .r-site-checkbox-icon {
-      border-color: #ffcd00; }
+      border-color: #ec2b00; }
       .r-site-checkbox label input:checked + .r-site-checkbox-icon i {
         opacity: 1; }
       .r-site-checkbox label input:checked + .r-site-checkbox-icon + .r-site-checkbox-text {
@@ -14112,7 +14112,7 @@ a:focus {
     left: 0;
     top: 2px; }
     .r-site-checkbox label .r-site-checkbox-icon i {
-      color: #ffcd00;
+      color: #ec2b00;
       font-size: 14px;
       position: absolute;
       left: 50%;
@@ -14167,7 +14167,7 @@ a:focus {
       padding-left: 0; }
       .r-car-tabs > .nav li a.active {
         color: #000;
-        border-bottom: 3px solid #ffcd00; }
+        border-bottom: 3px solid #ec2b00; }
       .r-car-tabs > .nav li a:hover {
         color: #000; }
     .r-car-tabs > .nav li::before {
@@ -14190,7 +14190,7 @@ a:focus {
     background-color: #f4f4f4;
     padding: 2px 12px; }
     .r-car-tabs .r-car-info-content ul li:hover {
-      background-color: #ffcd00;
+      background-color: #ec2b00;
       color: #fff; }
     .r-car-tabs .r-car-info-content ul li i {
       font-size: 12px;
@@ -14640,11 +14640,11 @@ a:focus {
       margin: auto;
       height: 100%;
       width: 2px;
-      background-color: #ffcd00;
+      background-color: #ec2b00;
       max-height: 380px;
       bottom: 0; }
       .r-login-register .r-login-register-in .r-auth-or span {
-        background: #ffcd00;
+        background: #ec2b00;
         color: #fff;
         position: absolute;
         bottom: 0;
@@ -14844,7 +14844,7 @@ a:focus {
         margin: auto;
         width: 35px;
         height: 35px;
-        background-color: #ffcd00;
+        background-color: #ec2b00;
         border-radius: 50%;
         color: #fff;
         line-height: 35px;
@@ -14859,15 +14859,15 @@ a:focus {
     background: #fff; }
     .iw-content .r-best-offer-single .r-best-offer-content > a {
       font-size: 28px;
-      color: #ffcd00;
+      color: #ec2b00;
       font-weight: 400;
       display: inline-block;
       margin-bottom: 0; }
       .iw-content .r-best-offer-single .r-best-offer-content > a:hover {
         text-decoration: none;
-        color: #ffcd00; }
+        color: #ec2b00; }
         .iw-content .r-best-offer-single .r-best-offer-content > a:hover b {
-          color: #ffcd00; }
+          color: #ec2b00; }
       .iw-content .r-best-offer-single .r-best-offer-content > a b {
         color: #333;
         font-weight: 700; }
@@ -14885,7 +14885,7 @@ a:focus {
       border-right: 1px solid #fff; }
       .iw-content .r-best-offer-single ul li:hover {
         color: #fff;
-        background-color: #ffcd00; }
+        background-color: #ec2b00; }
       .iw-content .r-best-offer-single ul li i {
         font-size: 12px;
         display: inline-block;
@@ -14968,9 +14968,9 @@ a:focus {
   top: 18px;
   left: 10px; }
   .r-slider-serach.form-search .form-footer .float-left:hover {
-    color: #ffcd00; }
+    color: #ec2b00; }
   .r-slider-serach.form-search .form-footer .float-left i {
-    color: #ffcd00;
+    color: #ec2b00;
     margin-right: 10px; }
 
 .r-slider-serach.form-search .form-title h2 {
@@ -14978,7 +14978,7 @@ a:focus {
   font-weight: 400;
   line-height: 1;
   margin: 0;
-  color: #ffcd00; }
+  color: #ec2b00; }
   .r-slider-serach.form-search .form-title h2 b {
     font-weight: 600; }
 
@@ -15088,7 +15088,7 @@ a:focus {
     height: 280px;
     position: absolute;
     top: 50px;
-    background: #ffcd00;
+    background: #ec2b00;
     opacity: .75;
     z-index: 9; }
 
@@ -15116,7 +15116,7 @@ a:focus {
         font-family: "Poppins", sans-serif;
         font-size: 14px; }
         .r-slider-serach > form .row .form-group input:focus {
-          border-color: #ffcd00; }
+          border-color: #ec2b00; }
   .r-slider-serach .form-footer {
     background: #fff;
     width: 100%;
@@ -15147,7 +15147,7 @@ a:focus {
             display: block;
             width: 40px;
             height: 3px;
-            background-color: #ffcd00;
+            background-color: #ec2b00;
             position: relative;
             top: 15px;
             left: 0px; }
@@ -15237,7 +15237,7 @@ input, select {
       top: 7px;
       cursor: pointer;
       text-align: center;
-      background-color: #ffcd00;
+      background-color: #ec2b00;
       border-radius: 50%;
       color: #000; }
     .r-carlist-search .r-search-full input {
