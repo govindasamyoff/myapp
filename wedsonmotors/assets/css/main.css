@@ -10245,7 +10245,7 @@ COLOR CUSTOMIZER
   padding: 5px 18px;
   border-color: rgba(255, 255, 255, 0.3); }
 .r-header.r-header-strip-01 .r-logo {
-  margin: 10px 0; width:80px }
+  margin: 10px 0;  }
 .r-header.r-header-strip-01 .r-nav-section nav ul {
   padding-left: 0; }
   .r-header.r-header-strip-01 .r-nav-section nav ul li a {
@@ -12733,7 +12733,7 @@ a:focus {
     top: 0;
     z-index: 0; }
   .r-sec-head.r-sec-head-v::after {
-    content: "V"; }
+    content: "P"; }
   .r-sec-head.r-sec-head-s::after {
     content: "S"; }
   .r-sec-head.r-sec-head-b::after {
@@ -13027,7 +13027,7 @@ a:focus {
       width: 30px;
       top: 10px; } }
 .r-best-vehicles {
-  background-color: #f8f4da;
+  background-color: #eafff5;
   padding: 0 0 130px; }
   .r-best-vehicles .r-best-vehicle-list-outer {
     margin-top: 40px; }

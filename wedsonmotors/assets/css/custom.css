@@ -39,6 +39,11 @@ filter: none;
     border-color: rgb(202 196 196 / 30%) !important;
 }
 
+.r-best-vehicles .r-sec-head::after {
+  color:rgb(179, 231, 206) !important;
+}
+
+
 @media (max-width: 767px) {
     
 .r-header.r-header-strip-01 .r-header-strip{
