@@ -12165,7 +12165,7 @@ div.r-who-we-outer {
     .r-gallery-part ul li:last-of-type {
       margin-bottom: 0; } }
 .r-advantages-part .r-advantage-main-part {
-  background: #f8f4da;
+  background: #eafff5;
   padding-bottom: 110px; }
   .r-advantages-part .r-advantage-main-part .advantage-head {
     text-align: center;
@@ -12187,9 +12187,9 @@ div.r-who-we-outer {
       .r-advantages-part .r-advantage-main-part .advantage-head h2 b {
         font-weight: 700; }
     .r-advantages-part .r-advantage-main-part .advantage-head::after {
-      content: "A";
+      content: "W";
       font-size: 200px;
-      color: #f1ecd0;
+      color:rgb(179 231 206);
       font-weight: 700;
       position: absolute;
       left: 0;
