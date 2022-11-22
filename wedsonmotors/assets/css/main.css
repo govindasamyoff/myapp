@@ -10250,7 +10250,10 @@ COLOR CUSTOMIZER
   padding-left: 0; }
   .r-header.r-header-strip-01 .r-nav-section nav ul li a {
     padding: 20px 0;
-    color: #000; }
+    color: #fff;
+   }
+
+ 
     .r-header.r-header-strip-01 .r-nav-section nav ul li a:hover {
       color: #ec2b00; }
 .r-header.r-header-strip-01 .r-car-search {
