@@ -48,6 +48,7 @@ filter: none;
     
 .r-header.r-header-strip-01 .r-header-strip{
     background-color: #fff !important;
+    padding: 15px 0px;
   }
   .r-header-fixed .r-nav-section nav ul li a {
     color: #fff !important;
