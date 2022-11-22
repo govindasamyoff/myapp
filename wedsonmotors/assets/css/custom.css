@@ -1,0 +1,15 @@
+.r-header .r-header-strip.r-header-fixed.r-header-strip-01{
+    -webkit-box-shadow: 0px 3px 5px -3px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 3px 5px -3px rgba(0,0,0,0.75);
+box-shadow: 0px 3px 5px -3px rgba(0,0,0,0.75);
+}
+
+
+
+@media (max-width: 767px) {
+    
+.r-header.r-header-strip-01 .r-header-strip{
+    background-color: #fff !important;
+  }
+
+}

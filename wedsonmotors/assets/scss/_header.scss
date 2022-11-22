@@ -157,7 +157,7 @@
 	.r-header-action a{
 		padding: 5px 18px; border-color: rgba(255, 255, 255, 0.3);
 	}
-	.r-logo{margin: 10px 0;}
+	.r-logo{margin: 10px 0;width: 80px;}
 	.r-nav-section nav ul {
 		padding-left: 0;
 		li a{padding: 20px 0; color: #fff; &:hover{color: $accent_color;}}
@@ -476,7 +476,7 @@
 
 @media (max-width: 767px){
 	.r-header.r-header-strip-01{
-	.r-header-strip{background-color: #000;}}
+	.r-header-strip{background-color: #fff;}}
 	.menu-icon {
     position:  absolute;
     top: 10px;

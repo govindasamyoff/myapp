@@ -10156,10 +10156,10 @@ COLOR CUSTOMIZER
       width: 100%;
       top: 0; }
       .r-header .r-header-strip.r-header-fixed.r-header-strip-01 {
-        background: #2d2d2d;
+        background: #fff;
         padding: 10px 0px; }
         .r-header .r-header-strip.r-header-fixed.r-header-strip-01 .r-submenu-icon {
-          color: #fff; }
+          color: #000; }
   .r-header .r-header-inner-banner {
     background: url(../images/inner-header.jpg) no-repeat;
     background-size: 100% 600px;
@@ -10245,12 +10245,12 @@ COLOR CUSTOMIZER
   padding: 5px 18px;
   border-color: rgba(255, 255, 255, 0.3); }
 .r-header.r-header-strip-01 .r-logo {
-  margin: 10px 0; }
+  margin: 10px 0; width:80px }
 .r-header.r-header-strip-01 .r-nav-section nav ul {
   padding-left: 0; }
   .r-header.r-header-strip-01 .r-nav-section nav ul li a {
     padding: 20px 0;
-    color: #fff; }
+    color: #000; }
     .r-header.r-header-strip-01 .r-nav-section nav ul li a:hover {
       color: #ec2b00; }
 .r-header.r-header-strip-01 .r-car-search {
