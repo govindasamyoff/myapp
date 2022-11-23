@@ -57,7 +57,12 @@ left: 0;
 width: 100% !important;
 height: 100% !important;
 }
-
+.r-welcome-msg-part:after {
+  content: "W" !important;
+}
+.r-footer-map{
+  visibility: hidden;
+}
 
 @media (max-width: 767px) {
     
