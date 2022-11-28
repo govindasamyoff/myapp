@@ -82,6 +82,10 @@ background-color: #b9f1e9;
   .color.violet{
     background-color:#4d2170;
     }
+    .r-best-offer-single a, .r-best-offer-single a:hover{
+      text-decoration: #fff !important;
+      color: #fff;
+    }
 @media (max-width: 767px) {
     
 .r-header.r-header-strip-01 .r-header-strip{
