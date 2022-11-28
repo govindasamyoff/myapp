@@ -63,7 +63,25 @@ height: 100% !important;
 .r-footer-map{
   visibility: hidden;
 }
-
+.available-colors{
+  display: flex;
+  margin: 20px 15px;
+}
+.color{
+  width: 20px;
+  height: 20px;
+  border-radius: 100%;
+  margin: 0px 3px;
+}
+.color.green{
+background-color: #b9f1e9;
+}
+.color.red{
+  background-color: #ec2b00;
+  }
+  .color.violet{
+    background-color:#4d2170;
+    }
 @media (max-width: 767px) {
     
 .r-header.r-header-strip-01 .r-header-strip{
