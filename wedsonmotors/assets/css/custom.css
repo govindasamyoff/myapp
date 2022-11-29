@@ -86,6 +86,12 @@ background-color: #b9f1e9;
       text-decoration: #fff !important;
       color: #fff;
     }
+    .r-logo img{
+width: 100%;
+    }
+    .r-footer .r-footer-block img{
+      width: auto !important;
+    }
 @media (max-width: 767px) {
     
 .r-header.r-header-strip-01 .r-header-strip{
