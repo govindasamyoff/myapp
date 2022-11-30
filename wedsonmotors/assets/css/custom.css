@@ -107,6 +107,8 @@ width: 100%;
       color: #fff;
       opacity: 0.7;
     }
+
+
 @media (max-width: 767px) {
     
 .r-header.r-header-strip-01 .r-header-strip{
@@ -124,5 +126,8 @@ width: 100%;
 @media (min-width: 768px) {
   .r-submenu-icon .fa.fa-angle-down{
 color:#fff;
+}
+.r-header .r-header-strip.r-header-fixed.r-header-strip-01 .r-submenu-icon .fa.fa-angle-down {
+  color: #000 !important;
 }
 }
