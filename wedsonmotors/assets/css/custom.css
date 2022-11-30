@@ -92,6 +92,21 @@ width: 100%;
     .r-footer .r-footer-block img{
       width: auto !important;
     }
+    .download{
+      background: #ec2b00;
+      padding: 15px 25px 15px 65px;
+      background: #ec2b00;
+    display: inline-block;
+    
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 600;
+    position: relative;
+    }
+    .download:hover{
+      color: #fff;
+      opacity: 0.7;
+    }
 @media (max-width: 767px) {
     
 .r-header.r-header-strip-01 .r-header-strip{
@@ -105,4 +120,9 @@ width: 100%;
   color: #000 !important;
 }
 
+}
+@media (min-width: 768px) {
+  .r-submenu-icon .fa.fa-angle-down{
+color:#fff;
+}
 }
