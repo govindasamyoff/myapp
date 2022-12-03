@@ -1,3 +1,20 @@
+
+@font-face {
+  font-family: magnetob;
+  src: url(../fonts/MAGNETOB.woff);
+}
+@font-face {
+  font-family: CenturyGothic;
+  src: url(../fonts/CenturyGothic.woff);
+}
+
+.r-slider-item .r-slider-top-content h4 {
+  font-family: CenturyGothic;
+}
+.r-slider-item .r-slider-top-content h1{
+  font-family: magnetob;
+}
+
 .r-header .r-header-strip.r-header-fixed.r-header-strip-01{
     -webkit-box-shadow: 0px 3px 5px -3px rgba(0,0,0,0.75);
 -moz-box-shadow: 0px 3px 5px -3px rgba(0,0,0,0.75);
@@ -112,6 +129,22 @@ footer{
  
   margin-right: 15px !important;
  
+}
+.r-sec-head.r-sec-head-w::after {
+  content: "" !important;
+}
+.adsec h2{
+  color:#fff !important;
+}
+
+.adsec h2 red{
+  color:#ec2b00 !important;
+}
+.r-who-royal {
+  background-color: #000000 !important;
+}
+.r-advantages-part .r-advantage-main-part .advantage-head::after{
+  content: "" !important;
 }
 @media (max-width: 767px) {
     
