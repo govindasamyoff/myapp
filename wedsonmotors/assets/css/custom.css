@@ -108,7 +108,11 @@ width: 100%;
 footer{
   border-top: 1px solid #eee;
 }
-
+.r-header .r-header-strip .r-nav-section nav > ul > li {
+ 
+  margin-right: 15px !important;
+ 
+}
 @media (max-width: 767px) {
     
 .r-header.r-header-strip-01 .r-header-strip{
