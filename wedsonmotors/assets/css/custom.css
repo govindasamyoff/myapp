@@ -7,14 +7,21 @@
   font-family: CenturyGothic;
   src: url(../fonts/CenturyGothic.woff);
 }
-
+.r-footer::after{
+  background: none !important;
+}
 .r-slider-item .r-slider-top-content h4 {
   font-family: CenturyGothic;
 }
 .r-slider-item .r-slider-top-content h1{
   font-family: magnetob;
 }
-
+.r-header.r-header-strip-01 .r-header-strip {
+  background-color: #fff;
+}
+.home .r-header.r-header-strip-01 .r-header-strip {
+  background-color: transparent;
+}
 .r-header .r-header-strip.r-header-fixed.r-header-strip-01{
     -webkit-box-shadow: 0px 3px 5px -3px rgba(0,0,0,0.75);
 -moz-box-shadow: 0px 3px 5px -3px rgba(0,0,0,0.75);
@@ -25,6 +32,9 @@ box-shadow: 0px 3px 5px -3px rgba(0,0,0,0.75);
     content: "E" !important;
 }
  
+.r-car-whole-info{
+padding: 20px;
+}
 .r-header-fixed .r-nav-section nav ul li a{
     color: #000 !important;
   }
@@ -107,6 +117,9 @@ width: 100%;
     .r-footer .r-footer-block img{
       width: auto !important;
     }
+    .r-footer .r-footer-block img.d-block{
+      width: 200px !important;
+    }
     .download{
       background: #ec2b00;
       padding: 15px 25px 15px 65px;
@@ -161,6 +174,9 @@ footer{
 
 }
 @media (min-width: 768px) {
+  .menuicon.mob{
+    display: none;
+    }
   .r-submenu-icon .fa.fa-angle-down{
 color:#fff;
 }
@@ -173,3 +189,303 @@ color:#fff;
   
 }
 }
+
+.new-head .r-nav-section nav ul li a {
+  padding: 20px 0;
+  color: #000 !important;
+}
+
+.new-head .r-logo img {
+  width: 190px;
+}
+
+.new-head .r-nav-section nav > ul{
+  float:none !important;
+}
+.new-head .r-nav-section nav{
+  text-align:center;
+}
+
+.lxprd{
+  width: 55%;
+  margin: 0 auto;
+display: block;
+  
+}
+
+.toptext h3{
+  font-family: magnetob;
+  color: #000;
+  font-weight: 600;
+  font-size: 60px;
+}
+
+.toptext h3 span{
+  color:rgb(236, 43, 0);
+}
+
+.toptext h2{
+ 
+  color: #000;
+ font-weight: 300;
+  font-size: 30px;
+}
+.learn{
+  background-color: rgba(0,0,0,0.5);
+  color:#fff;
+  padding:10px 20px ;
+  font-weight: 300;
+  display: inline-block;
+  transition: all 0.2s linear 0s;
+ 
+}
+.dlfex-align{
+  display: flex;
+  align-items: center;
+
+}
+
+.roadiesec{
+  background-image: url(../images/Group4.png);
+  background-repeat: no-repeat;
+  background-size: 100% ;
+}
+.lx60sec{
+  
+  background-image: url(../images/roadiebg.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% ;
+}
+.main-slide{
+  
+  background-image: url(../images/mainbg.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% ;
+}
+.roadieprd{
+width: 35%;
+margin: 0 auto;
+display: block;
+
+}
+
+.biketextpart h4{
+  font-weight: 300;
+  color: #000;
+  margin-bottom: 2rem;
+}
+
+.fp-watermark{
+  display: none;
+}
+
+#section1{
+  background-image: url(../images/roadiebgnew.jpg);
+  background-repeat: no-repeat;
+  background-size: cover ;
+}
+.setbottom{
+  position:absolute;
+  bottom: 0;
+
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  width: 80%;
+}
+
+#section2{
+  background-image: url(../images/mudbgnew.jpg);
+  background-repeat: no-repeat;
+  background-size: cover ;
+}
+#section3{
+  background-image: url(../images/Group4.png);
+  background-repeat: no-repeat;
+  background-size: cover ;
+}
+#section4{
+  background-image: url(../images/bwbg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover ;
+  
+}
+#section4 h2{
+  
+  font-weight: 700;
+    color: #fff;
+    font-size: 3rem;
+}
+#section4 h2 red {
+  color: #ec2b00 !important;
+}
+
+.lximg{
+  width: 50%;
+}
+
+.flex-c{
+  display: flex;
+  padding: 0 15px;
+  flex-wrap: wrap;
+  align-items: center;
+  overflow: hidden;
+
+}
+
+
+.flex-box{
+  width:50%;
+}
+.justifycenter{
+  display: flex;
+  justify-content: center;
+}
+.learn:hover{
+  color: #fff;
+  background-color: rgb(236, 43, 0);
+}
+@media (max-width:1200px){
+.flex-box{
+  width:100%;
+}
+
+}
+
+@media (min-width:768px){
+.r-header .r-header-strip{
+  top:0px !important;
+}
+.r-header .r-header-strip.r-header-fixed{
+  top:0px !important;
+}
+
+}
+@media (max-width:768px){
+.menu-icon{
+  display: none;
+}
+#fullpage{
+  margin-top: -90px;
+}
+.bumpfree{
+  width: 100% !important;
+}
+}
+
+
+.sidenav {
+height: 100%;
+width: 0;
+position: fixed;
+z-index: 1;
+top: 0;
+right: 0;
+background-color: #111;
+overflow-x: hidden;
+transition: 0.5s;
+padding-top: 60px;
+font-family: "Poppins", sans-serif;
+font-weight: 300;
+font-size: 14px;
+}
+
+.sidenav a {
+padding: 8px 8px 8px 32px;
+text-decoration: none;
+font-size: 16px;
+color: #818181;
+display: block;
+transition: 0.3s;
+}
+
+.sidenav a:hover {
+color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+position: absolute;
+top: 0;
+right: 25px;
+font-size: 36px;
+margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+.sidenav {padding-top: 15px;}
+.sidenav a {font-size: 14px;}
+}
+
+.dealercta{
+background-color: rgb(236, 43, 0);
+position: absolute;
+left: 0;
+right: 0;
+width: max-content;
+margin: 0 auto;
+z-index: 999;
+text-transform: uppercase;
+color: #fff;
+padding: 10px 20px;
+font-weight: 300;
+border-radius: 5px;
+transition: all 0.2s linear 0s;
+}
+.dealercta:hover{
+color:rgb(236, 43, 0);
+background-color: #fff;
+}
+.r-header .r-header-strip .r-nav-section nav ul li a:hover{
+  color:rgb(236, 43, 0) !important;
+}
+.home footer {
+  border-top: 1px solid #fff;
+}
+.bumpfree{
+  width:70%;
+}
+@media (max-width: 767px){
+  .setbottom {
+    position: absolute;
+    bottom: 0;
+    left: -50%;
+    right: -50%;
+    margin: 0 auto;
+    width: 200%;
+}
+  #section1 {
+   
+    background-position: center;
+}
+  .toptext{
+    margin-top: 20px;
+  }
+  .toptext ,.biketextpart {
+    text-align: center;
+  }
+  .r-car-whole-info {
+    padding: 0px;
+}
+.menuicon {
+    position: absolute;
+    top: 10px;
+    right: 0;
+    background: #fff;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    color: #000;
+    text-align: center;
+}
+.menuicon.mob{
+display: block;
+right: 15px;
+}
+.menuicon{
+  display: none;
+}
+
+
+}
+
