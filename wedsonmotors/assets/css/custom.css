@@ -31,7 +31,11 @@ box-shadow: 0px 3px 5px -3px rgba(0,0,0,0.75);
 .r-sec-head.r-sec-head-r:after {
     content: "E" !important;
 }
- 
+.r-header .r-header-inner-banner {
+  min-height: 250px;
+  background-size: 100% 250px;
+}
+
 .r-car-whole-info{
 padding: 20px;
 }
@@ -174,6 +178,9 @@ footer{
 
 }
 @media (min-width: 768px) {
+  .r-header .r-header-inner-banner .r-header-in-over {
+    bottom: 30px;
+  }
   .menuicon.mob{
     display: none;
     }
@@ -283,6 +290,7 @@ display: block;
   background-image: url(../images/roadiebgnew.jpg);
   background-repeat: no-repeat;
   background-size: cover ;
+  background-position: top center;
 }
 .setbottom{
   position:absolute;
