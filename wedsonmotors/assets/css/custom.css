@@ -40,11 +40,15 @@ box-shadow: 0px 3px 5px -3px rgba(0,0,0,0.75);
   display:flex;
 }
 .icon-flex img{
-  width: 100px;
+  width: 60px;
 }
 .icon-flex .icon-box{
   background-color: #fff;
-  margin: 10px;
+ 
+  text-align: center;
+  font-size: 12px;
+  border: 1px solid #eee;
+    padding: 10px;
 }
 
 .r-car-whole-info{
@@ -175,6 +179,10 @@ footer{
   content: "" !important;
 }
 @media (max-width: 767px) {
+  .icon-flex {
+  
+    flex-direction: column;
+}
     
 .r-header.r-header-strip-01 .r-header-strip{
     background-color: #fff !important;
@@ -189,6 +197,9 @@ footer{
 
 }
 @media (min-width: 768px) {
+  .r-car-info-wrapper {
+    padding-top: 0px;
+}
   .r-header .r-header-inner-banner .r-header-in-over {
     bottom: 30px;
   }
