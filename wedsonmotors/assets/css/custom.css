@@ -36,6 +36,17 @@ box-shadow: 0px 3px 5px -3px rgba(0,0,0,0.75);
   background-size: 100% 250px;
 }
 
+.icon-flex{
+  display:flex;
+}
+.icon-flex img{
+  width: 100px;
+}
+.icon-flex .icon-box{
+  background-color: #fff;
+  margin: 10px;
+}
+
 .r-car-whole-info{
 padding: 20px;
 }
